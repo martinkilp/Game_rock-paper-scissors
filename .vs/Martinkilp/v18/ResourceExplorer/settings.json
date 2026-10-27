@@ -1,0 +1,30 @@
+{
+  "ShowEmptyProjects": true,
+  "SelectedGroups": [
+    "C:\\Users\\marti\\Desktop\\VS_projects\\C#_OOP_Naurberg\\Kursuset\u00F6\u00F6_20.03.2026\\Martinkilp\\Form1.resx",
+    "C:\\Users\\marti\\Desktop\\VS_projects\\C#_OOP_Naurberg\\Kursuset\u00F6\u00F6_20.03.2026\\Martinkilp\\Help_Form.resx",
+    "C:\\Users\\marti\\Desktop\\VS_projects\\C#_OOP_Naurberg\\Kursuset\u00F6\u00F6_20.03.2026\\Martinkilp\\Properties\\Resources.resx",
+    "C:\\Users\\marti\\Desktop\\VS_projects\\C#_OOP_Naurberg\\Kursuset\u00F6\u00F6_20.03.2026\\Martinkilp\\Info_Form.resx",
+    "C:\\Users\\marti\\Desktop\\VS_projects\\C#_OOP_Naurberg\\Kursuset\u00F6\u00F6_20.03.2026\\Martinkilp\\MK_Form3.resx",
+    "C:\\Users\\marti\\Desktop\\VS_projects\\C#_OOP_Naurberg\\Kursuset\u00F6\u00F6_20.03.2026\\Martinkilp\\MK_Form2.resx"
+  ],
+  "ExpandedProjects": [
+    "C:\\Users\\marti\\Desktop\\VS_projects\\C#_OOP_Naurberg\\Kursuset\u00F6\u00F6_20.03.2026\\Martinkilp\\Martinkilp.csproj"
+  ],
+  "EnableSpellChecker": true,
+  "ColumnOrder": [
+    "name",
+    "file-path",
+    "file-name",
+    "type",
+    "neutral-value",
+    "neutral-comment"
+  ],
+  "VisibleColumnKeys": [
+    "name",
+    "file-path",
+    "file-name",
+    "type",
+    "neutral-value"
+  ]
+}
